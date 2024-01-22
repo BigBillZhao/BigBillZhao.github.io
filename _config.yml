@@ -3,7 +3,7 @@ title: Yuntian Zhao
 SEOTitle: Yuntian Zhao's Homepage
 header-img: img/post-bg-desk.jpg
 email: yzhao801@gatech.edu [OR] zhaoyt4112@gmail.com
-description: "Every failure is leading towards success."
+description: "MS.ECE, Georgia Institute of Technology, yzhao801@gatech.edu"
 keyword: "ZYT, zhaoyuntian"
 url: "http://BigBillZhao.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -11,7 +11,7 @@ github_repo: "https://github.com/BigBillZhao/BigBillZhao.github.io.git" # you co
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "MS.ECE, Georgia Institute of Technology"
 sidebar-avatar: /img/about-yuntian.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
