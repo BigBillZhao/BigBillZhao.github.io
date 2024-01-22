@@ -1,10 +1,10 @@
 # Site settings
 title: Yuntian Zhao
-SEOTitle: Yuntian Zhao
+SEOTitle: Yuntian Zhao's Homepage
 header-img: img/post-bg-desk.jpg
-email: zhaoyt@mail.sustech.edu.cn [OR] zhaoyt4112@gmail.com
+email: yzhao801@gatech.edu [OR] zhaoyt4112@gmail.com
 description: "Every failure is leading towards success."
-keyword: "ZYT, ZYT Blog, 赵云天的博客, zhaoyuntian"
+keyword: "ZYT, zhaoyuntian"
 url: "http://BigBillZhao.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/BigBillZhao/BigBillZhao.github.io.git" # you code repository
@@ -12,7 +12,7 @@ github_repo: "https://github.com/BigBillZhao/BigBillZhao.github.io.git" # you co
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/about-yuntian.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -23,7 +23,7 @@ RSS: false
 github_username:    BigBillZhao
 # facebook_username:  baiying.qiu.7
 # jianshu_username:   e71990ada2fd
-#twitter_username:   qiubaiying
+# twitter_username:   qiubaiying
 
 
 
